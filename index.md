@@ -18,3 +18,7 @@
 SELECT * FROM CUSTOMER_TRANSACTIONS 
 WHERE TRANSACTION_DATE > 2023 
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
