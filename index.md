@@ -12,3 +12,9 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```
+SELECT * FROM CUSTOMER_TRANSACTIONS 
+WHERE TRANSACTION_DATE > 2023 
+```
